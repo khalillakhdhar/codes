@@ -7,6 +7,6 @@ personnes.append(p1)
 personnes.append(p2)
 for p in personnes:
     print(p["profession"])
-# définir un dictionnaire joueur et lisez un liste des joueur avec ( nomComplet, age , adresse) au clavier
+# définir un dictionnaire joueur et lisez un liste des joueur avec ( nomComplet, age , adresse) au clavier (au moins 3 joueurs)
 # créer et remplissez un tableau de joueur puis
 # afficher les joueur en indiquant selon leurs age >18 sénior <18 juniors
